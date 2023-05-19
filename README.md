@@ -6,6 +6,10 @@
 
 This is a website project for Horiseon, a marketing agency. The goal of this project is to refactor the existing site to make it more accessible.
 
+## Deployment
+
+The live application can be accessed at the following URL: https://iphaminh.github.io/horiseon-seo-services/
+
 ## Installation
 
 Since this is a simple webpage, no installation is necessary. Just clone the repository and open the `index.html` file in your browser.
